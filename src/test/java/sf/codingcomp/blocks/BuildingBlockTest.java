@@ -120,6 +120,7 @@ public class BuildingBlockTest {
         assertSame(getBlock2(), b);
         b = it.next();
         assertSame(getBlock1(), b);
+        
     }
 
     @Test
